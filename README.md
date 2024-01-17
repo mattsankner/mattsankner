@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-CS Student passionate about Software Engineering, AI, and Data. Specialties: web development (Angular) and NoSQL database development (Firebae).
+CS Student passionate about Software Engineering, AI, and Data. Specialties: Web Development (Angular) and NoSQL Database Development (Firebase).
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
