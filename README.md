@@ -9,7 +9,7 @@ CS Student passionate about Software Engineering, AI, and Data. Specialties: Web
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
 * ✉️  You can contact me at [mattsankner@verizon.net](mailto:mattsankner@verizon.net)
-* 🧠  I love working with data and keeping up with AI trends!
+* 🧠  I'm passionate about LLM's and incorporating AI into my work!
 * ⚡  I'm an NCAA All-American Scholar and former semi-professional ice hockey player
 
 ### Skills
