@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matt Sankner
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Matt
 ====================================================================================================================================
 
-Passionate about Software Engineering, Neural Nets, AI, and Data.
+Passionate about Software Engineering, LLM's, Neural Nets, AI, and Data. Incoming AI Innovation and Research Intern @bmw.
 
-* 🖥️  [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
-* ✉️  You can contact me at [mattsankner@verizon.net](mailto:mattsankner@verizon.net)
-* 🧠  I'm passionate about LLM's and building AI systems
+* 🧠  Neural Network project: [Micrograd](https://github.com/mattsankner/micrograd)
+* 🖥️  E-Com Angular Web App: [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
+* ✉️  You can contact me at: [mattsankner@verizon.net](mailto:mattsankner@verizon.net)
 * ⚡  I'm an NCAA All-American Scholar and former semi-professional ice hockey player
 
 ### Skills
