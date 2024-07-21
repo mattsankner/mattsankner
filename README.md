@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matt Sankner
 ====================================================================================================================================
 
-CS Student passionate about Software Engineering, AI, and Data. Specialties: Web Development (Angular) and NoSQL Database Development (Firebase).
+Passionate about Software Engineering, Neural Nets, AI, and Data.
 
-* 🖥️  See my portfolio at [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
+* 🖥️  [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
 * ✉️  You can contact me at [mattsankner@verizon.net](mailto:mattsankner@verizon.net)
 * 🧠  I'm passionate about LLM's and building AI systems
 * ⚡  I'm an NCAA All-American Scholar and former semi-professional ice hockey player
