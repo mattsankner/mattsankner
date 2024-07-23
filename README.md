@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Passionate about Software Engineering, LLM's, Neural Nets, AI, and Data. Incoming AI Innovation and Research Intern @bmw.
 
-* 🧠  Neural Network project: [Micrograd](https://github.com/mattsankner/micrograd)
+* 🧠  Neural Network Engine: [Micrograd](https://github.com/mattsankner/micrograd)
 * 🖥️  E-Com Angular Web App: [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
 * ✉️  You can contact me at: [mattsankner@verizon.net](mailto:mattsankner@verizon.net)
 * ⚡  I'm an NCAA All-American Scholar and former semi-professional ice hockey player
