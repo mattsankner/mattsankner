@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate about Software Engineering, LLM's, Neural Nets, AI, and Data. AI Engineer @ bmw.
 
 * 🧠  Neural Network Engine: [Micrograd](https://github.com/mattsankner/micrograd)
-* 🖥️  E-Com Angular Web App: [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
+* 💸  E-Com Angular Web App: [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
 * 🏈  AI Chatbot (No API): https://github.com/mattsankner/AI-Chatbot-NY-Giants-07-Super-Bowl
 * ✉️  You can contact me at: [mattsankner@verizon.net](mailto:mattsankner@verizon.net)
 * ⚡  I'm an NCAA All-American Scholar and former semi-professional ice hockey player
