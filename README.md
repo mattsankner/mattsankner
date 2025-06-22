@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Matt
 ====================================================================================================================================
 
-Passionate about Software Engineering, LLM's, Neural Nets, AI, and Data. AI Engineer @ bmw.
+Passionate about Software Engineering, LLM's, AI, and Data. AI Engineer @ BMW.
 
 * 🧠  Neural Network Engine: [Micrograd](https://github.com/mattsankner/micrograd)
 * 💸  E-Com Angular Web App: [Hockey Monkey Sample E-Commerce Store](http://project1-3cbec.web.app/)
